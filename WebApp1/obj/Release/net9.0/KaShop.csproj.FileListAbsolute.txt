@@ -349,3 +349,7 @@ C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\refint\KaShop.d
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\KaShop.pdb
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\KaShop.genruntimeconfig.cache
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\ref\KaShop.dll
+C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\compressed\fh2k61kom3-3w7jejt5b1.gz
+C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\compressed\jobj64ukx6-1za78g898y.gz
+C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\compressed\tewicjdkc1-vtm9dvzpet.gz
+C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\compressed\v3bz1esbj1-jmgwmyfb49.gz

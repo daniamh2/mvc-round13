@@ -5,6 +5,42 @@
       "PackagePath": "staticwebassets\\KaShop.a04da5gdvg.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\-\\Documents\\api\\proj\\WebApp1\\WebApp1\\wwwroot\\admin\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\admin\\css\\adminlte.css"
+    },
+    {
+      "Id": "C:\\Users\\-\\Documents\\api\\proj\\WebApp1\\WebApp1\\wwwroot\\admin\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "C:\\Users\\-\\Documents\\api\\proj\\WebApp1\\WebApp1\\wwwroot\\admin\\imgs\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\admin\\imgs\\AdminLTELogo.png"
+    },
+    {
+      "Id": "C:\\Users\\-\\Documents\\api\\proj\\WebApp1\\WebApp1\\wwwroot\\admin\\imgs\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\imgs\\user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\-\\Documents\\api\\proj\\WebApp1\\WebApp1\\wwwroot\\admin\\imgs\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\admin\\imgs\\user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\-\\Documents\\api\\proj\\WebApp1\\WebApp1\\wwwroot\\admin\\imgs\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\imgs\\user3-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\-\\Documents\\api\\proj\\WebApp1\\WebApp1\\wwwroot\\admin\\imgs\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\imgs\\user8-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\-\\Documents\\api\\proj\\WebApp1\\WebApp1\\wwwroot\\admin\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\admin\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\Users\\-\\Documents\\api\\proj\\WebApp1\\WebApp1\\wwwroot\\admin\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\adminlte.js.map"
+    },
+    {
       "Id": "C:\\Users\\-\\Documents\\api\\proj\\WebApp1\\WebApp1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

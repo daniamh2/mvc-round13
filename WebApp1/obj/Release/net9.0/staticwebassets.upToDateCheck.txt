@@ -25,6 +25,7 @@ C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\jquery-validation-unob
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\admin\css\adminlte.css
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\css\styles.css
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
@@ -32,6 +33,7 @@ C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\jquery\dist\jquery.sli
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\admin\css\adminlte.css.map
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\jquery-validation\dist\additional-methods.js
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
@@ -49,8 +51,10 @@ C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\css\site.css
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\admin\js\adminlte.js
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\admin\js\adminlte.js.map
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\jquery-validation\LICENSE.md
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
@@ -62,6 +66,15 @@ C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\bootstrap\dist\css\boo
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\admin\css\adminlte.css
+wwwroot\admin\css\adminlte.css.map
+wwwroot\admin\imgs\AdminLTELogo.png
+wwwroot\admin\imgs\user1-128x128.jpg
+wwwroot\admin\imgs\user2-160x160.jpg
+wwwroot\admin\imgs\user3-128x128.jpg
+wwwroot\admin\imgs\user8-128x128.jpg
+wwwroot\admin\js\adminlte.js
+wwwroot\admin\js\adminlte.js.map
 wwwroot\css\site.css
 wwwroot\css\styles.css
 wwwroot\favicon.ico
