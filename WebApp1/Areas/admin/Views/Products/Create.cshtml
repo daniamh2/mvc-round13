@@ -1,0 +1,62 @@
+﻿@model KaShop.Models.Product
+
+<h1>Create Product</h1>
+
+<hr />
+<form asp-controller="Products" asp-action="Store" method="post" enctype="multipart/form-data">
+    <!--begin::Body-->
+    <div class="mb-3">
+        <label asp-for=Name class="form-label"></label>
+        <input asp-for=Name class="form-control" id="Name">
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div> 
+
+    <div class="mb-3">
+        <label asp-for=Price class="form-label"></label>
+        <input asp-for=Price class="form-control" id="Price">
+        <span class="text-danger" asp-validation-for="Price"></span>
+    </div>   
+
+    <div class="mb-3">
+        <label asp-for=Description class="form-label"></label>
+        <textarea asp-for=Description class="form-control" id="Description"></textarea>
+        <span class="text-danger" asp-validation-for="Description"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for=Rate class="form-label"></label>
+        <input asp-for=Rate class="form-control" id="Rate">
+        <span class="text-danger" asp-validation-for="Rate"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for=Image class="form-label"></label>
+        <input type="file" asp-for=Image class="form-control" id="Image">
+        <span class="text-danger" ></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for=CategoryId class="form-label"></label>
+        <select class="form-select" asp-for=CategoryId  >
+            @foreach (var item in ViewBag.Categories)
+            {
+                <option value="" >choose</option>
+                <option value="@item.Id">@item.Name</option>
+            }
+        </select>
+        <span class="text-danger" asp-validation-for="CategoryId"></span>
+    </div>
+     <!--begin::Footer-->
+    
+     <div class="card-footer">
+        <button type="submit" class="btn btn-primary">Save</button>
+    </div>
+    <!--end::Footer-->
+</form>
+
+@section Scripts{
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+    <partial name="_validationscriptspartial"></partial>
+
+}

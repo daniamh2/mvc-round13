@@ -1,0 +1,54 @@
+﻿@using KaShop.Models
+@model List<Product>
+@if (!Model.Any())
+{
+    <div class="alert alert-warning">No product found</div>
+
+}
+else
+{
+    <div class="card-header"><h3 class="card-title">Bordered Table</h3></div>
+    <!-- /.card-header -->
+    <div class="card-body">
+
+        <table class="table table-bordered" role="table">
+            <thead>
+                <tr>
+                    <th style="width: 10px" scope="col">#</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Image</th>
+                    <th scope="col">Category</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var product in Model)
+                {
+                    <tr class="align-middle">
+                        <td>@product.Id</td>
+                        <td>@product.Name</td>
+                        <td>
+                            <img src = "/images/@product.Image" /> </td> <!-- otomaticlly goes to wwwroot folder-->
+                        <td>
+                            <a class="btn btn-danger" asp-controller="Categories" asp-action="Remove" asp-route-id=@product.Id> Delete </a>
+                            <a class="btn btn-primary" asp-controller="Categories" asp-action="Edit" asp-route-id=@product.Id> Update </a>
+                        </td>
+                        <td>@product.Category.Name</td>
+
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <!-- /.card-body -->
+    <div class="card-footer clearfix">
+        <ul class="pagination pagination-sm m-0 float-end">
+            <li class="page-item"><a class="page-link" href="#">«</a></li>
+            <li class="page-item"><a class="page-link" href="#">1</a></li>
+            <li class="page-item"><a class="page-link" href="#">2</a></li>
+            <li class="page-item"><a class="page-link" href="#">3</a></li>
+            <li class="page-item"><a class="page-link" href="#">»</a></li>
+        </ul>
+    </div>
+}

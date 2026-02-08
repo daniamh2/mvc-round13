@@ -1,0 +1,22 @@
+﻿@using KaShop.Models
+@model List<Product>
+
+@foreach (var product in Model)
+{
+    <div class="col mb-5">
+		<div class="card h-100">
+            <img class="card-img-top" src="/images/@product.Image"  alt="...">
+
+            <div class="card-body p-4">
+                <div class="text-center">
+                    <h5 class="fw-bolder">@product.Name</h5>
+                    @product.Id
+                </div>
+            </div>
+            <!-- Product actions-->
+            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">View options</a></div>
+            </div>
+        </div>
+    </div>
+}

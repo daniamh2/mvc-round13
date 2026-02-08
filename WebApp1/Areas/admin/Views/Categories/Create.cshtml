@@ -1,0 +1,26 @@
+﻿@model KaShop.Models.Category
+
+
+<h1>Create Category</h1>
+
+<hr />
+<form asp-controller="Categories" asp-action="Store" method="post">
+    <!--begin::Body-->
+        <div class="mb-3">
+            <label for="Name" class="form-label">Category Name</label>
+        <input asp-for=Name class="form-control" id="Name">
+        </div>
+        <span class="text-danger" asp-validation-for="Name"></span>
+     <!--begin::Footer-->
+    <div class="card-footer">
+        <button type="submit" class="btn btn-primary">Save</button>
+    </div>
+    <!--end::Footer-->
+</form>
+
+@section Scripts{
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+    <partial name="_validationscriptspartial"></partial>
+
+}

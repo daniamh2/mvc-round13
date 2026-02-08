@@ -84,7 +84,6 @@ C:\Users\-\Documents\api\proj\WebApp1\WebApp1\bin\Release\net9.0\System.Composit
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\bin\Release\net9.0\System.Composition.Runtime.dll
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\bin\Release\net9.0\System.Composition.TypedParts.dll
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\bin\Release\net9.0\System.Configuration.ConfigurationManager.dll
-C:\Users\-\Documents\api\proj\WebApp1\WebApp1\bin\Release\net9.0\System.Formats.Asn1.dll
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\bin\Release\net9.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\bin\Release\net9.0\System.Memory.Data.dll
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\bin\Release\net9.0\System.Reflection.MetadataLoadContext.dll
@@ -92,7 +91,6 @@ C:\Users\-\Documents\api\proj\WebApp1\WebApp1\bin\Release\net9.0\System.Resource
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\bin\Release\net9.0\System.Runtime.Caching.dll
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\bin\Release\net9.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\bin\Release\net9.0\System.Security.Permissions.dll
-C:\Users\-\Documents\api\proj\WebApp1\WebApp1\bin\Release\net9.0\System.Text.Json.dll
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\bin\Release\net9.0\System.Windows.Extensions.dll
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\bin\Release\net9.0\af\Humanizer.resources.dll
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\bin\Release\net9.0\ar\Humanizer.resources.dll
@@ -336,12 +334,6 @@ C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\compressed\1edu
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\staticwebassets.build.json
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\staticwebassets.development.json
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\staticwebassets.build.endpoints.json
-C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\staticwebassets\msbuild.KaShop.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\staticwebassets\msbuild.KaShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\staticwebassets\msbuild.build.KaShop.props
-C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\staticwebassets\msbuild.buildMultiTargeting.KaShop.props
-C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\staticwebassets\msbuild.buildTransitive.KaShop.props
-C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\staticwebassets.pack.json
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\KaShop.csproj.Up2Date
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\KaShop.dll
@@ -353,3 +345,8 @@ C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\compressed\fh2k
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\compressed\jobj64ukx6-1za78g898y.gz
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\compressed\tewicjdkc1-vtm9dvzpet.gz
 C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\compressed\v3bz1esbj1-jmgwmyfb49.gz
+C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\rpswa.dswa.cache.json
+C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\rjimswa.dswa.cache.json
+C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\-\Documents\api\proj\WebApp1\WebApp1\obj\Release\net9.0\staticwebassets.build.json.cache

@@ -27,7 +27,7 @@ namespace WebApp1
             app.MapStaticAssets();
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{Area=user}/{controller=Home}/{action=Index}/{id?}")
+                pattern: "{Area=admin}/{controller=Home}/{action=Index}/{id?}")
                 .WithStaticAssets();
 
             app.Run();
